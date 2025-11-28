@@ -1,0 +1,24 @@
+# Atividade Prática – Consultas SQL 
+
+Nesta atividade vais trabalhar com uma base de dados simples, disponível no ficheiro `base_dados.sql`. O objetivo é praticar comandos SQL básicos e utilizar o GitHub para registar o teu progresso.
+
+## Passos da atividade
+
+1. Importar o ficheiro `base_dados.sql` para o teu simulador SQL online ou para o XAMPP.
+2. Confirmar que as tabelas foram criadas corretamente.
+3. Implementar as seguintes consultas:
+
+1. Selecionar todos os clientes da tabela `clientes`.
+2. Selecionar apenas o nome e o email dos clientes.
+3. Selecionar todas as encomendas com valor superior a 50€.
+4. Contar quantas encomendas existem por cliente.
+5. Selecionar os clientes que ainda não têm encomendas.
+
+Para cada consulta, cria um *commit* no GitHub com uma mensagem clara (por exemplo: `adiciona select clientes sem encomendas`).
+
+## Reflexão final
+
+No final da atividade, cria um ficheiro de texto (por exemplo, `reflexao.txt`) com uma breve reflexão:
+
+- Que media foi mais útil para aprender SQL nesta atividade (GitHub, vídeo, W3Schools, IA, etc.)? Porquê?
+- Houve algum erro que tenhas cometido várias vezes? Como o ultrapassaste?
